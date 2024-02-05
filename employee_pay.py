@@ -24,7 +24,7 @@ def main():
         total_pay = bonus_value + float(rec[3])
         print(f"Pay:    $  {total_pay:,.2f}")
         input()
-        print("hi")
+        print()
 
 
 main()
